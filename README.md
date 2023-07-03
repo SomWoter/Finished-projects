@@ -1,7 +1,3 @@
-### Hi there 👋
-<iframe src="https://giphy.com/embed/11kEuHSQAXXiGQ" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-it-crowd-11kEuHSQAXXiGQ">via GIPHY</a></p>
-
-
 <div id="header" align="center">
     <img src ="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width ="200" />
     <h1 align = "center"> Hi, I'm Andrei Marin👍</h1>
