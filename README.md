@@ -4,6 +4,14 @@
     <h2 align = "center"> I'm a 🌱junior🌱 software developer from Spain.</h2>
     <h3 align = "center"> My main programming language is Java, but I've also utilized other languages such as C# and Python. Regarding databases, I have learned MySQL/MariaDB and MongoDB. Currently, I'm honing my programming skills in Python by creating simple games using the OOP model.</h3>
 </div>
+   
+<div id="contact" align="left"">
+  <p>Contact me:</p>
+  <ul>
+    <li>marin.andrei.dev@gmail.com</li>
+    <li><a href="https://www.linkedin.com/in/andrei-marin-dev/">https://www.linkedin.com/in/andrei-marin-dev/</a></li>
+  </ul>
+</div>
 
 
 
