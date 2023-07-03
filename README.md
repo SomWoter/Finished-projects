@@ -6,7 +6,7 @@
 </div>
    
 <div id="contact" align="left"">
-  <p>Contact me:</p>
+  <h2>Contact me:</h2>
   <ul>
     <li>marin.andrei.dev@gmail.com</li>
     <li><a href="https://www.linkedin.com/in/andrei-marin-dev/">https://www.linkedin.com/in/andrei-marin-dev/</a></li>
