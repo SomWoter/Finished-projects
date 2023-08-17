@@ -1,0 +1,30 @@
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Controlador.deps.json
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Controlador.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Controlador.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Model.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Model.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.csproj.AssemblyReference.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.AssemblyInfoInputs.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.AssemblyInfo.cs
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.csproj.CoreCompileInputs.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.csproj.CopyComplete
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\refint\Controlador.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Controlador\obj\Debug\net6.0-windows\ref\Controlador.dll
+C:\Users\andre\Desktop\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Controlador.deps.json
+C:\Users\andre\Desktop\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Controlador.dll
+C:\Users\andre\Desktop\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Controlador.pdb
+C:\Users\andre\Desktop\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Model.dll
+C:\Users\andre\Desktop\practica_pt3c\Controlador\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.AssemblyInfo.cs
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.csproj.CopyComplete
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.dll
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\refint\Controlador.dll
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\Controlador.pdb
+C:\Users\andre\Desktop\practica_pt3c\Controlador\obj\Debug\net6.0-windows\ref\Controlador.dll

@@ -1,0 +1,36 @@
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.csproj.AssemblyReference.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.AssemblyInfoInputs.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.AssemblyInfo.cs
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.csproj.CoreCompileInputs.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.deps.json
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\refint\Model.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\ref\Model.dll
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.deps.json
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.dll
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.pdb
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.csproj.AssemblyReference.cache
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.AssemblyInfoInputs.cache
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.AssemblyInfo.cs
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.csproj.CoreCompileInputs.cache
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.dll
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\refint\Model.dll
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.pdb
+D:\DAM 2\m07\practica_pt3c\practica_pt3c\Model\obj\Debug\net6.0-windows\ref\Model.dll
+C:\Users\andre\Desktop\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.deps.json
+C:\Users\andre\Desktop\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.dll
+C:\Users\andre\Desktop\practica_pt3c\Model\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.AssemblyInfo.cs
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.dll
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\refint\Model.dll
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\Model.pdb
+C:\Users\andre\Desktop\practica_pt3c\Model\obj\Debug\net6.0-windows\ref\Model.dll

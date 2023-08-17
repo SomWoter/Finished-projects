@@ -1,0 +1,94 @@
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.exe
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.deps.json
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Model.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Model.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\practica_pt3c.Form1.resources
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\practica_pt3c.Form2.resources
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.Properties.Resources.resources
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\refint\Vista.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\ref\Vista.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Controlador.dll
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Controlador.pdb
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.FormClientDetalles.resources
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.FormClientList.resources
+E:\DAM 2\m07\practica_pt3c\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.FormComandaLista.resources
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Controlador.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Model.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Controlador.pdb
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\practica_pt3c.Form1.resources
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\practica_pt3c.Form2.resources
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.FormClientDetalles.resources
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.FormClientList.resources
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.FormComandaLista.resources
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.Properties.Resources.resources
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\andre\Desktop\practica_pt3c\practica_pt3c\obj\Debug\net6.0-windows\ref\Vista.dll
