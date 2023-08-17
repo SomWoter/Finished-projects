@@ -1,0 +1,12 @@
+Es una simple aplicación con conexión a base de datos.
+
+Se debe ejecutar desde Visual Studio
+
+Primero deberías coger el script SQL -> storePokemon.sql <- y ejecutarlo para crear la base de datos y las tablas necesarias con los datos necesarios
+para el uso de la aplicación. El archivo está en la carpeta principal del programa
+
+Al ejecutar el programa te aparecerá un login. Puedes entrar con cualquier usuario que haya en la tabla usuarios (user: Admin, con: Admin).
+
+Después de iniciar sesión se abrirá la aplicación en sí que solo sirve para visualizar en tablas diferentes los datos de los usuarios haciendo
+clicks en los nombres de los usuarios o en los números de teléfono.
+
