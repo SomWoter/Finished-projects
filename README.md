@@ -2,7 +2,7 @@
     <img src ="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width ="300" />
     <h1 align = "center"> Hi, I'm Andrei Marin👍</h1>
     <h2 align = "center"> I'm a 🌱junior🌱 software developer from Spain.</h2>
-    <h3 align = "center"> My main programming language is Java, but I've also utilized other languages such as C# and Python. Regarding databases, I have experience using MySQL/MariaDB , MongoDB and PostgreSQL. Currently, I'm honing my programming skills by participating in a C# bootcamp..</h3>
+    <h3 align = "center"> My main programming language is Java, but I've also utilized other languages such as C# and Python. Regarding databases, I have experience using MySQL/MariaDB , MongoDB and PostgreSQL. Currently, I'm honing my programming skills by participating in a C# bootcamp.</h3>
 </div>
    
 <div id="contact" align="left"">
