@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
     <img src ="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" width ="300" />
     <h1 align = "center"> Hi, I'm Andrei Marin👍</h1>
     <h2 align = "center"> I'm a 🌱junior🌱 software developer from Spain.</h2>
@@ -11,7 +11,7 @@
     <li>marin.andrei.dev@gmail.com</li>
     <li><a href="https://www.linkedin.com/in/andrei-marin-dev/">https://www.linkedin.com/in/andrei-marin-dev/</a></li>
   </ul>
-</div>
+</div>-->
 
 
 
